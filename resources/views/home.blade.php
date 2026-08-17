@@ -8,11 +8,11 @@
          ============================================ -->
     <section class="hero">
         <p class="eyebrow">
-            Proyecto base del curso
+            Hola que tal
         </p>
 
         <h1>
-            Desarrollo backend con Laravel
+            Desarrollo backend con Laravel 
         </h1>
 
         <p class="hero__description">
