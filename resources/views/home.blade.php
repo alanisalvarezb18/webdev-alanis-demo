@@ -8,7 +8,7 @@
          ============================================ -->
     <section class="hero">
         <p class="eyebrow">
-            Hola
+            Hola, soy alanis
         </p>
 
         <h1>
